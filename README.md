@@ -1,7 +1,7 @@
 # Excel联系人转VCF工具
 
 一个简单的Python应用程序，用于将Excel表格中的联系人信息转换为VCF格式，方便导入到手机或其他设备的通讯录中。
-
+window应用直接下载目录中的exe文件
 ## 功能特点
 
 - 导入Excel文件（.xlsx/.xls）并在表格中预览内容
@@ -36,6 +36,7 @@
 
 ```
 pip install pandas
+pip install openpyxl
 ```
 
 ## 注意事项
