@@ -6,7 +6,7 @@ import pandas as pd
 class ExcelToVcfConverter:
     def __init__(self, root):
         self.root = root
-        self.root.title("Excel联系人转VCF工具")
+        self.root.title("Excel联系人转VCF工具 by Ram")
         self.root.geometry("800x600")
         
         self.excel_file_path = None
