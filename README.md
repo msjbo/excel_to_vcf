@@ -4,6 +4,7 @@
 
 # 直接下载使用
   window应用直接下载目录中的excel_to_vcf.exe文件
+  ![screenshots](screenshots.png "screenshots")
 ## 功能特点
 
 - 导入Excel文件（.xlsx/.xls）并在表格中预览内容
